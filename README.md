@@ -2,6 +2,8 @@
 
 This is a simple implementation of the classic Pong game using HTML5 Canvas and JavaScript.
 
+To play this game click on this link: https://pmm-inf.github.io/PinPon/
+
 ## How to Run
 
 1. Clone the repository:
